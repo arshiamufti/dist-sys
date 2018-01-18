@@ -9,3 +9,4 @@
 ### RDMA
 
 - [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
+- [Using One-Sided RDMA Reads to Build a Fast, CPU-efficient Key-Value store](https://www.usenix.org/system/files/conference/atc13/atc13-mitchell.pdf)
