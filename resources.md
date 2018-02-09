@@ -13,3 +13,9 @@ This is why I like this book so much! If you're just getting started and aren't 
 * [Brave New Geek](https://bravenewgeek.com/)
 
 Tyler's Blog posts are so good. I particularly like [this](https://bravenewgeek.com/understanding-consensus/) blog post on consensus.
+
+## Blog Posts
+
+* [External consistency and Spanner | Google](https://cloud.google.com/spanner/docs/true-time-external-consistency)
+
+I like how they explain external consistency and contrast it with eventual consistency, linearizability, etc.
