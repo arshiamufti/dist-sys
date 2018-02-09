@@ -6,6 +6,7 @@
 - [x] [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 - [ ] [The Byzantine Generals Problem ](http://www.cs.cornell.edu/courses/cs614/2004sp/papers/LSP82.pdf) -- **currently reading**
 - [x] [Harvest and Yield](https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf)
+- [ ] [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
 ### RDMA
 
