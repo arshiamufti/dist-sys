@@ -7,6 +7,7 @@
 - [ ] [The Byzantine Generals Problem ](http://www.cs.cornell.edu/courses/cs614/2004sp/papers/LSP82.pdf) -- **currently reading**
 - [x] [Harvest and Yield](https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf)
 - [ ] [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+- [ ] [Hybrid Logical Clocks (HLCs)](https://www.cse.buffalo.edu//tech-reports/2014-04.pdf)
 
 ### RDMA
 
